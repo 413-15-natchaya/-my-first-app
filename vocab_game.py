@@ -70,7 +70,7 @@ def show_result_dialog(ans1, ans2, ans3, ans4):
  if score == 4:
      st.success("🎉 You win!")
  else:
- st.error("💀 You lose!")
+     st.error("💀 You lose!")
  
  
 # ----------------------------------------------------
